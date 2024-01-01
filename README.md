@@ -20,7 +20,7 @@ This repository contains a web application that seamlessly integrates authentica
 ## Local Machine Setup
 - Open Terminal and type
   ```
-  git clone [https://github.com/wajeehamushtaq/EasyGenerator-Assessment.git](https://github.com/wajeehamushtaq/EasyGenerator-Assessment.git)
+  git clone https://github.com/wajeehamushtaq/EasyGenerator-Assessment.git
   ```
 ### For Backend setup
 - 
